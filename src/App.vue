@@ -25,6 +25,10 @@ onMounted(() => {
   
 })
 
+const b = 2;
+console.log(b);
+
+
 </script>
 
 <style>
