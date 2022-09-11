@@ -23,6 +23,9 @@ onMounted(() => {
   const b = 1;
   console.log(b);
   
+  let map = [1,1];
+  console.log(map[a]);
+  
 })
 
 const b = 2;
