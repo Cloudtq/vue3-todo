@@ -24,7 +24,7 @@ onMounted(() => {
   console.log(b);
   
   let map = [1,1];
-  console.log(map[a]);
+  console.log(map[b]);
   
 })
 
